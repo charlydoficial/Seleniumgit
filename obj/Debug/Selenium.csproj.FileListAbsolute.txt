@@ -1,0 +1,10 @@
+C:\Automation\Selenium\bin\Debug\Selenium.exe
+C:\Automation\Selenium\bin\Debug\Selenium.pdb
+C:\Automation\Selenium\bin\Debug\nunit.framework.dll
+C:\Automation\Selenium\bin\Debug\WebDriver.dll
+C:\Automation\Selenium\bin\Debug\nunit.framework.xml
+C:\Automation\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Automation\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Automation\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Automation\Selenium\obj\Debug\Selenium.exe
+C:\Automation\Selenium\obj\Debug\Selenium.pdb
